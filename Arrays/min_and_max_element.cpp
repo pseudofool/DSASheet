@@ -1,3 +1,5 @@
+// practice link
+// https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1/
 pair<long long, long long> getMinMax(long long a[], int n) {
     long long min = INT_MAX;
     long long max = INT_MIN;
