@@ -1,4 +1,5 @@
 // link - https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1/#
+// tutorial - https://youtu.be/GrV3MTR_Uk0
 /*
     Brute Force:
     Time comlexity - O(n^2)
@@ -9,6 +10,7 @@
     Time complexity - O(n) 
     Space Complexity - O(n)
 */
+
 int longSubarrWthSumDivByK(int arr[], int n, int k)
 {
     int len = 0;
